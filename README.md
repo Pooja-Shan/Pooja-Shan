@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pooja-Shan
-- 👀 I’m interested in learning and improving my R and Python skills
-- 🌱 I’m currently learning R, Python and dynamic data visualization tools
+- 👀 Welcome to my portfolio 
+- 🌱 I’m currently working on upskilling myself with various IT tools 
 - 💞️ I’m looking to build and grow my skills through side projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://www.linkedin.com/in/pooja-shankavaram-79192697
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: :) 
 
