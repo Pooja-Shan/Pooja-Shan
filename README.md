@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pooja-Shan
 - 👀 Welcome to my portfolio 
-- 🌱 I’m currently working on upskilling myself with various IT tools 
+- 🌱 I’m actively looking for opportunities to launch a career in data 
 - 💞️ I’m looking to build and grow my skills through side projects
-- 📫 How to reach me ...https://www.linkedin.com/in/pooja-shankavaram-79192697
+- 📫 How to reach me ...https://www.linkedin.com/in/pooja-shankavaram-79192697/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: :) 
 
