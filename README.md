@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pooja-Shan
-- 👀 Welcome to my portfolio 
-- 🌱 I’m actively looking for opportunities to launch a career in data 
+- 👀 Welcome to my portfolio!
+- 🌱 I’m actively looking for opportunities to launch a career in the Data Space
 - 💞️ I’m looking to build and grow my skills through side projects
 - 📫 How to reach me ...https://www.linkedin.com/in/pooja-shankavaram-79192697/
 - 😄 Pronouns: She/Her
