@@ -5,7 +5,7 @@
 
 
 ### 🚀 Portfolio
-👉 [View My Data Analytics Projects]([(https://github.com/Pooja-Shan/My_Work_Portfolio-])
+👉 [(https://github.com/Pooja-Shan/My_Work_Portfolio-]
 
 
 ### 🛠 Skills
