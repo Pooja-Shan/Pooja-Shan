@@ -11,7 +11,7 @@
 ---
 
 ### ⚙️ Skills
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, sqlite3)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Sqlite3)
 - SQL (MySQL)
 - Power BI | Tableau
 - Excel  
