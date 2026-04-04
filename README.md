@@ -1,6 +1,6 @@
 ### 🤝 Hi, I'm Pooja Shankavaram
 
-- 🚀 Aspiring Data Analyst | Economics Graduate with a proven record in client-facing roles
+- 🚀 Aspiring Data Analyst | Economics Post-Graduate with a proven record in client-facing roles
 - 📍 Bengaluru, India  
 
 ---
